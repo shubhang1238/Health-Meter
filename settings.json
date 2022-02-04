@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/06f3991f-67ad-4c60-88a9-5177435056c6/resourceGroups/MOL-AppService/providers/Microsoft.Web/sites/Health-O-Meter",
+    "appService.deploySubpath": "."
+}
